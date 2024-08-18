@@ -1,4 +1,4 @@
-window.repo = "pagefaultgames/pokerogue/main"
+window.repo = "pom-eranian/pokerogue/main"
 window.checkUpdate = "24 PR"
 window.lang = "en"
 
